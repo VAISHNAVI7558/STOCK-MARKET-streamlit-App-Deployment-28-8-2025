@@ -1,8 +1,7 @@
-# STOCK-MARKET-streamlit-App-Deployment-28-8-2025
 numpy 
 pandas
 plotly
 os
 ipykernal
-strieanlit
+streanlit
 requests

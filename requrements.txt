@@ -2,6 +2,6 @@ numpy
 pandas
 plotly
 os
-ipykernal
-streanlit
+ipykernel
+streamlit
 requests

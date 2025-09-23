@@ -1,7 +1,0 @@
-numpy 
-pandas
-plotly
-os
-ipykernel
-streamlit
-requests

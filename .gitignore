@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+## Add .srteamlit to do not commit
+.streamlit/
+
+
 # C extensions
 *.so
 

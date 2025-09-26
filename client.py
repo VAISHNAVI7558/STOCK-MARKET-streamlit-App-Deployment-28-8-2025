@@ -1,7 +1,7 @@
 import pandas as  pd
 import requests
 import plotly.graph_objects as  go
-
+ 
 ## create  class
 class API_STOCK_MARKET:
     def __init__(self , api_key   ):
@@ -65,3 +65,6 @@ class API_STOCK_MARKET:
                           xaxis_title = 'date' ,
                             yaxis_title = 'Price')
         return  fig
+       
+ 
+ 

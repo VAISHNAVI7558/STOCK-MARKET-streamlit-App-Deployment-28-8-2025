@@ -2,6 +2,5 @@ pandas
 numpy
 ipykernel
 streamlit
-os
 plotly
 requests
